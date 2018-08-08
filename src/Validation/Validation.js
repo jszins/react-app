@@ -5,6 +5,6 @@ const validation = (props) => {
     return <p>Text too short</p>
   else
     return <p>Text long enough</p>
-}
+};
 
 export default validation;
